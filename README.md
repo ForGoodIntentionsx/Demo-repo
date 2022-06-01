@@ -4,4 +4,4 @@
 ### Not gonna lie, this is cool as fuck
 ### let us do branching
 
-#This is supposed to be is the newBranch branch
+# This is supposed to be is the newBranch branch
